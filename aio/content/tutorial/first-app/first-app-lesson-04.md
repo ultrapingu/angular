@@ -34,7 +34,7 @@ In the **Terminal** pane of your IDE:
 
     <code-example format="shell" language="shell">
 
-    ng generate interface housinglocation
+    ng generate interface housingLocation
 
     </code-example>
 
